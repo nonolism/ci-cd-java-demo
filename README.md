@@ -1,7 +1,7 @@
 # CI/CD Example with Java and GitHub Actions
 
 ## Resumo do Projeto
-
+ss
 Esta é uma simples aplicação em Java projetada para demonstrar os princípios de CI/CD usando GitHub Actions. 
 
 O projeto inclui um programa básico em Java que ordena um array de números inteiros e um teste unitário correspondente para validar sua funcionalidade. 
